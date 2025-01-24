@@ -1,6 +1,6 @@
 Banana
+Durazno
 Fresa
+Mango
 Naranja
 Piña
-Mango
-Durazno
